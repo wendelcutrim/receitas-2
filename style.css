@@ -4,6 +4,10 @@
     font-family: 'Roboto', sans-serif;
 }
 
+header h1{
+    color: red;
+}
+
 .menu li{
     list-style-type: square;
 }
